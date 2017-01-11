@@ -1,0 +1,66 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon (TM) R9 380 Series (ID=0x6938)
+    Vendor:   ATI
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\kokos\Documents\GitHub\epl361.winter16.team6\Networking\ams_Data\ennatreksis_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\kokos\Documents\GitHub\epl361.winter16.team6\Networking\ams_Data\ennatreksis_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\kokos\Documents\GitHub\epl361.winter16.team6\Networking\ams_Data\ennatreksis_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\kokos\Documents\GitHub\epl361.winter16.team6\Networking\ams_Data\ennatreksis_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\kokos\Documents\GitHub\epl361.winter16.team6\Networking\ams_Data\ennatreksis_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\kokos\Documents\GitHub\epl361.winter16.team6\Networking\ams_Data\ennatreksis_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\kokos\Documents\GitHub\epl361.winter16.team6\Networking\ams_Data\ennatreksis_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\kokos\Documents\GitHub\epl361.winter16.team6\Networking\ams_Data\ennatreksis_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\kokos\Documents\GitHub\epl361.winter16.team6\Networking\ams_Data\ennatreksis_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\kokos\Documents\GitHub\epl361.winter16.team6\Networking\ams_Data\ennatreksis_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.123 seconds
+Platform assembly: C:\Users\kokos\Documents\GitHub\epl361.winter16.team6\Networking\ams_Data\ennatreksis_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\kokos\Documents\GitHub\epl361.winter16.team6\Networking\ams_Data\ennatreksis_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'lifepoints') is missing!
+ 
+(Filename:  Line: 1656)
+
+UnloadTime: 0.612529 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1d74 -> priority: 1 
+Irta
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'lifepoints') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'lifepoints') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'lifepoints') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'lifepoints') is missing!
+ 
+(Filename:  Line: 1656)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:64498}
+Did not find target for RPC message for 221
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
